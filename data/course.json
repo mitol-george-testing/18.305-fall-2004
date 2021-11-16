@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c8bbd998-11c1-49f6-7a70-478618e931ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Analytic Methods in Science and Engineering",
+  "course_description": "Advanced Analytic Methods in Science and Engineering is a comprehensive treatment of the advanced methods of applied mathematics. It was designed to strengthen the mathematical abilities of graduate students and train them to think on their own.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.305",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
